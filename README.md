@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him
 
-Technologies I work with :information_desk_person:
+### Technologies I work with :information_desk_person:
 * Java
 * Python
 * JavaScript
@@ -27,7 +27,7 @@ Technologies I work with :information_desk_person:
 * Memcached
 * Amazon Web Services
 
-📫 How to reach me:
+### 📫 How to reach me:
   Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-misra-40246428/) :bowtie: <br>
   Follow me on [Twitter](https://twitter.com/realadityamisra) 🐦  <br>
   Visit my [Website](https://www.adityamisra.com) 🚧 🌐  <br>

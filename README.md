@@ -11,8 +11,8 @@
 😄 Pronouns: he/him
 
 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/aditya-misra-40246428/) <br>
-[GitHub](https://github.com/AdityaMisra) <br>
-[Twitter](https://twitter.com/realadityamisra) 🐦 <br>
-[Website](https://www.kumar-saurabh.com) 🌐 <br>
-[Email](mailto:amisra14@yahoo.co.uk)
+&nbsp[LinkedIn](https://www.linkedin.com/in/aditya-misra-40246428/) :bowtie: <br>
+&nbsp[GitHub](https://github.com/AdityaMisra) :octocat: <br>
+&nbsp[Twitter](https://twitter.com/realadityamisra) 🐦 <br>
+&nbsp[Website](https://www.adityamisra.com) 🚧 🌐 <br>
+&nbsp[Email](mailto:amisra14@yahoo.co.uk)  ✏️ 📝  <br>

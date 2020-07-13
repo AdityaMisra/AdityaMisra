@@ -8,7 +8,8 @@
 
 🌱 I’m currently mastering Micro-service based architecture & solving complex problems with simple design.
 
-😄 Pronouns: he/him
+😄 ### Pronouns: 
+      he/him
 
 ### Technologies I work with :information_desk_person:
 * Java

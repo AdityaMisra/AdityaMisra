@@ -17,16 +17,16 @@
 
 <p>
    <a href="https://www.python.org/">
-     <img src="/AdityaMisra/AdityaMisra/raw/master/assets/python.gif" height="100">
+     <img src="assets/python.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.java.com/en/">
-     <img src="/AdityaMisra/AdityaMisra/raw/master/assets/java.gif" height="100">
+     <img src="assets/java.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://golang.org/">
-     <img src="/AdityaMisra/AdityaMisra/raw/master/assets/golang.gif" height="120">
+     <img src="assets/golang.gif" height="120">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript">
-     <img src="/AdityaMisra/AdityaMisra/raw/master/assets/html-css-js.png" height="100">
+     <img src="assets/html-css-js.png" height="100">
    </a>
 </p>
   
@@ -34,13 +34,13 @@
   
 <p>
     <a href="https://spring.io/projects/spring-boot">
-        <img src="/AdityaMisra/AdityaMisra/raw/master/assets/spring-boot.png" height="120">
+        <img src="assets/spring-boot.png" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.djangoproject.com/">
-        <img src="/AdityaMisra/AdityaMisra/raw/master/assets/django.png" height="120">
+        <img src="assets/django.png" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/en/1.1.x/">
-        <img src="/AdityaMisra/AdityaMisra/raw/master/assets/flask.png" height="120">
+        <img src="assets/flask.png" height="120">
     </a>
 </p>
   

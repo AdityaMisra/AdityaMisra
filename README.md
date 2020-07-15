@@ -17,16 +17,16 @@
 
 <p>
    <a href="https://www.python.org/">
-     <img src="assets/python.gif" height="100">
+     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/python.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.java.com/en/">
-     <img src="assets/java.gif" height="100">
+     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/java.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://golang.org/">
-     <img src="assets/golang.gif" height="120">
+     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/golang.gif" height="120">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript">
-     <img src="assets/html-css-js.png" height="100">
+     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.png" height="100">
    </a>
 </p>
   
@@ -34,13 +34,13 @@
   
 <p>
     <a href="https://www.djangoproject.com/">
-        <img src="assets/django.png" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.png" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/en/1.1.x/">
-        <img src="assets/flask.png" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/flask.png" height="120">
     </a>
     <a href="https://spring.io/projects/spring-boot">
-        <img src="assets/spring-boot.png" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.png" height="120">
     </a>
 </p>
   
@@ -48,22 +48,22 @@
   
 <p>
     <a href="https://www.mysql.com/">
-        <img src="assets/mysql.gif" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/mysql.gif" height="120">
     </a>
     <a href="https://www.postgresql.org/">
-        <img src="assets/postgresql.gif" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/postgresql.gif" height="120">
     </a>
 </p>
   
 <p>
     <a href="https://www.elastic.co/" rel="nofollow">
-        <img src="assets/elasticsearch.jpg" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/elasticsearch.jpg" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" rel="nofollow">
-        <img src="assets/mongo.gif" height="110">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/mongo.gif" height="110">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://memcached.org/" rel="nofollow">
-        <img src="assets/memcached.png" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/memcached.png" height="120">
     </a>
 </p>
 
@@ -71,19 +71,19 @@
 
 <p>
     <a href="https://www.docker.com/" rel="nofollow">
-        <img src="assets/docker.gif" height="120"> 
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120"> 
     </a> 
     <a href="https://aws.amazon.com/" rel="nofollow">
-        <img src="assets/aws.gif" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
     </a> &nbsp;&nbsp;
     <a href="https://www.rabbitmq.com/" rel="nofollow">
-        <img src="assets/rabbitmq.png" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.png" height="120">
     </a>
 </p>
 
 ## 🌱 I’m currently learning:
 <a href="https://kubernetes.io/" target="_blank" >
-    <img src="assets/k8s.gif" height="110"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/k8s.gif" height="110"/>
 </a>
 
 ## 📫 How to reach me:

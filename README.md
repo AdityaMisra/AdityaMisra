@@ -12,36 +12,21 @@
      he/him
 
 ### Technologies I work with :information_desk_person:
-* Java
-* Python
-* JavaScript
-* Go Lang
-* Django
-* Flask
-* SpringBoot
-* MongoDb
-* ElasticSearch
-* MySQL
-* PostgreSQL
-* Docker
-* RabbitMQ
-* Memcached
-* Amazon Web Services
 
 #### Languages
 
 <p float="left">
     <a href="https://www.python.org/" target="_blank" >
-    <img src="assets/python.gif"  height="90" />
+    <img src="assets/python.gif" />
   </a>
   <a href="https://www.java.com/en/" target="_blank" >
-    <img src="assets/java.gif"  height="90" />
+    <img src="assets/java.gif" />
   </a>
   <a href="https://golang.org/" target="_blank" >
-    <img src="assets/golang.gif"  height="90" />
+    <img src="assets/golang.gif"/>
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="assets/html-css-js.png" height="70" />
+    <img src="assets/html-css-js.png"/>
   </a>
  </p>
   
@@ -49,16 +34,16 @@
   
  <p float="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank" >
-    <img src="assets/spring-boot.png"  height="75" />
+    <img src="assets/spring-boot.png"/>
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="assets/django.jpg"  height="75" />
+    <img src="assets/django.jpg"  />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="assets/django.png"  height="75" />
+    <img src="assets/django.png"   />
   </a>
   <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank" >
-    <img src="assets/flask.png"  height="75" />
+    <img src="assets/flask.png" />
   </a>
  </p>
   
@@ -66,22 +51,22 @@
   
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="assets/mysql.gif" height="60" />&nbsp;&nbsp;
+    <img src="assets/mysql.gif"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="assets/postgresql.gif" height="65" />
+    <img src="assets/postgresql.gif" />
   </a>
 </p>
   
  <p float="left">
   <a href="https://www.elastic.co/" target="_blank" >
-    <img src="assets/elasticsearch.jpg" width="120" />
-  </a>&nbsp;&nbsp;
+    <img src="assets/elasticsearch.jpg"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="assets/mongo.gif" height="80" />
+    <img src="assets/mongo.gif" />
   </a>
    <a href="https://memcached.org/" target="_blank" >
-    <img src="assets/memcached.png" height="90" />&nbsp;&nbsp;
+    <img src="assets/memcached.png"/>
   </a>
 </p>
 
@@ -89,20 +74,20 @@
 
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="assets/docker.gif"  height="80" /> 
+    <img src="assets/docker.gif"/> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="assets/aws.gif" height="90" />&nbsp;&nbsp;
+    <img src="assets/aws.gif" />
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="assets/rabbitmq.png" height="80" />
+    <img src="assets/rabbitmq.png" />
   </a>
 
 </p>
 
 ### 🌱 I’m currently learning:
 <a href="https://kubernetes.io/" target="_blank" >
-    <img src="assets/k8s.gif"  height="75" />
+    <img src="assets/k8s.gif" />
 </a>
 
 ### 📫 How to reach me:

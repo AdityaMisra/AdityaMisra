@@ -67,7 +67,7 @@
     </a>
 </p>
 
-### Others
+### Platform/Tools
 
 <p>
     <a href="https://www.docker.com/" rel="nofollow">

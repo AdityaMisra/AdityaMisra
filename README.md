@@ -87,7 +87,18 @@
 </a>
 
 ## 📫 How to reach me:
-  Connect with me on [LinkedIn](https://www.linkedin.com/in/misra-aditya/) :bowtie: <br>
-  Follow me on [Twitter](https://twitter.com/realadityamisra) 🐦  <br>
-  Visit my [Website](https://adityamisra.com) 🚧 🌐  <br>
-  Send an [Email](mailto:amisra14@yahoo.co.uk)  ✏️ 📝  <br>
+  <a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+  </a><br>
+  <a href="https://twitter.com/realadityamisra" target="_blank" >
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+  </a><br>
+<a href="https://medium.com/@aditya_misra5" target="_blank" >
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+</a><br>
+<a href="https://adityamisra.com" target="_blank" >
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+</a><br>
+<a href="mailto:amisra14@yahoo.co.uk" target="_blank" >
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+</a><br>

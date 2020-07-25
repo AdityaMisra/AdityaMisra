@@ -88,7 +88,7 @@
 
 ## 📫 How to reach me:
   <a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/linkedin.png" height="80"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/_linkedin.png" height="80"/>
   </a>
   <a href="https://twitter.com/realadityamisra" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/twitter.webp" height="80"/>

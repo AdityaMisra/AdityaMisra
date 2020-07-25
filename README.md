@@ -8,7 +8,7 @@
 
 🌱 I’m currently mastering Micro-service based architecture & solving complex problems with simple design.
 
-## 😄 Pronouns: 
+## 😄 Pronouns:
      he/him
 
 ## Technologies I work with :information_desk_person:
@@ -29,9 +29,9 @@
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.png" height="100">
    </a>
 </p>
-  
+
 ### Frameworks
-  
+
 <p>
     <a href="https://www.djangoproject.com/">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.png" height="120">
@@ -43,9 +43,9 @@
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.png" height="120">
     </a>
 </p>
-  
+
 ### Storage
-  
+
 <p>
     <a href="https://www.mysql.com/">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/mysql.gif" height="120">
@@ -54,7 +54,7 @@
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/postgresql.gif" height="120">
     </a>
 </p>
-  
+
 <p>
     <a href="https://www.elastic.co/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/elasticsearch.jpg" height="120">
@@ -71,8 +71,8 @@
 
 <p>
     <a href="https://www.docker.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120"> 
-    </a> 
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120">
+    </a>
     <a href="https://aws.amazon.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
     </a> &nbsp;&nbsp;
@@ -88,17 +88,17 @@
 
 ## 📫 How to reach me:
   <a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/linkedin.png" height="110"/>
   </a><br>
   <a href="https://twitter.com/realadityamisra" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/twitter.webp" height="110"/>
   </a><br>
 <a href="https://medium.com/@aditya_misra5" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
 </a><br>
 <a href="https://adityamisra.com" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/website.jpg" height="110"/>
 </a><br>
 <a href="mailto:amisra14@yahoo.co.uk" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/email_me.png" height="110"/>
 </a><br>

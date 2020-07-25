@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://adityamisra.com" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/website.jpg" height="50"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/profile.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:amisra14@yahoo.co.uk" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/email_me.png" height="50"/>

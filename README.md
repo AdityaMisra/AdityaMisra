@@ -88,17 +88,17 @@
 
 ## 📫 How to reach me:
   <a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/linkedin.png" height="110"/>
-  </a><br>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/linkedin.png" height="80"/>
+  </a>
   <a href="https://twitter.com/realadityamisra" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/twitter.webp" height="110"/>
-  </a><br>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/twitter.webp" height="80"/>
+  </a>
 <a href="https://medium.com/@aditya_misra5" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="110"/>
-</a><br>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="80"/>
+</a>
 <a href="https://adityamisra.com" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/website.jpg" height="110"/>
-</a><br>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/website.jpg" height="80"/>
+</a>
 <a href="mailto:amisra14@yahoo.co.uk" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/email_me.png" height="110"/>
-</a><br>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/email_me.png" height="80"/>
+</a>

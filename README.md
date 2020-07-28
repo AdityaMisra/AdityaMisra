@@ -6,7 +6,7 @@
 
 🔭 :octocat: I am [Aditya](http://adityamisra.com/), a pragmatic engineer & a polyglot developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 5+ years of professional working experience. 🚀
 
-🌱 I’m currently mastering Micro-service based architecture & solving complex problems with simple design.
+🌱 I’m currently mastering micro-service based architecture & love to solve complex problems with simple solutions.
 
 ## 😄 Pronouns:
      he/him

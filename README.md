@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!--
 **AdityaMisra/AdityaMisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +7,14 @@
 🔭 :octocat: I am [Aditya](http://adityamisra.com/), a pragmatic engineer & a polyglot developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 5+ years of professional working experience. 🚀
 
 🌱 I’m currently mastering micro-service based architecture & love to solve complex problems with simple solutions.
+
+<details>
+     <summary>📊 Github Stats</summary>
+     <p align="center"> 
+          <img src="https://github-readme-stats.vercel.app/api?username=AdityaMisra&show_icons=true&theme=calm" alt="Aditya Misra | Stats" />
+</details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{AdityaMisra}/count.svg)
 
 ## 😄 Pronouns:
      he/him

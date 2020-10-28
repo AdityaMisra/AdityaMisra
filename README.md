@@ -9,7 +9,7 @@
 🌱 I’m currently mastering micro-service based architecture & love to solve complex problems with simple solutions.
 
 <details>
-     <summary>📊 Github Stats</summary>
+     <summary>📊 <b>Github Stats</b></summary>
      <p align="center"> 
           <img src="https://github-readme-stats.vercel.app/api?username=AdityaMisra&show_icons=true&theme=calm" alt="Aditya Misra | Stats" />
 </details>

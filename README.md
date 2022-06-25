@@ -81,7 +81,7 @@
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/memcached.gif" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.snowflake.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/snowflake.gif" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/snowflake_icon.gif" height="120">
     </a>
 </p>
 

@@ -83,15 +83,17 @@
 
 ### Platform/Tools
 
-<a href="https://www.docker.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120">
-</a>
-<a href="https://aws.amazon.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
-</a> &nbsp;&nbsp;
-<a href="https://www.rabbitmq.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.png" height="120">
-</a>
+<p>
+    <a href="https://www.docker.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120">
+    </a>
+    <a href="https://aws.amazon.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
+    </a> &nbsp;&nbsp;
+    <a href="https://www.rabbitmq.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.png" height="120">
+    </a>
+</p>
 
 ## 🌱 I’m currently learning:
 <a href="https://kubernetes.io/" target="_blank" >

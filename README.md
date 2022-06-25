@@ -36,26 +36,27 @@
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.javascript.com/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/js-javascript.gif" height="100">
-   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" rel="nofollow">
-     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.gif" height="100">
    </a>
 </p>
 
 
 
-### Frameworks
+### Frameworks & Libraries
 
 <p>
+    <a href="https://spring.io/projects/spring-boot" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.gif" height="120">
+    </a>
+    <a href="https://reactjs.org/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/react_js.gif" height="120">
+    </a>
     <a href="https://www.djangoproject.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.gif" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/en/1.1.x/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/flask.gif" height="120">
     </a>
-    <a href="https://spring.io/projects/spring-boot" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.gif" height="120">
-    </a>
+    
 </p>
 
 ### Storage

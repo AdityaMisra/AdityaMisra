@@ -12,7 +12,7 @@
      <summary>📊 <b>Github Stats</b></summary>
      <p align="center"> 
           <img src="https://github-readme-stats.vercel.app/api?username=AdityaMisra&show_icons=true&theme=calm" alt="Aditya Misra | Stats" />
-    </p>
+    <p/>
 </details>
 
  ![Visitor Count](https://profile-counter.glitch.me/{AdityaMisra}/count.svg)
@@ -38,7 +38,7 @@
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/js-javascript.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" rel="nofollow">
-     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.PNG" height="100">
+     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.png" height="100">
    </a>
 </p>
 
@@ -48,13 +48,13 @@
 
 <p>
     <a href="https://www.djangoproject.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.PNG" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.png" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/en/1.1.x/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/flask.PNG" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/flask.png" height="120">
     </a>
     <a href="https://spring.io/projects/spring-boot" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.PNG" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.png" height="120">
     </a>
 </p>
 
@@ -71,13 +71,13 @@
 
 <p>
     <a href="https://www.elastic.co/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/elasticsearch.JPG" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/elasticsearch.jpg" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/mongo.gif" height="110">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://memcached.org/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/memcached.PNG" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/memcached.png" height="120">
     </a>
 </p>
 
@@ -91,7 +91,7 @@
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
     </a> &nbsp;&nbsp;
     <a href="https://www.rabbitmq.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.PNG" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.png" height="120">
     </a>
 </p>
 
@@ -102,17 +102,17 @@
 
 ## 📫 How to reach me:
   <a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/_linkedin.PNG" height="50"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/_linkedin.png" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/realadityamisra" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/twitter.webp" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@aditya_misra5" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.PNG" height="50"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://adityamisra.com" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/profile.PNG" height="50"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/profile.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:amisra14@yahoo.co.uk" target="_blank" >
-    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/email_me.PNG" height="50"/>
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/email_me.png" height="50"/>
 </a>

@@ -83,17 +83,15 @@
 
 ### Platform/Tools
 
-<p>
-    <a href="https://www.docker.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120">
-    </a>
-    <a href="https://aws.amazon.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
-    </a> &nbsp;&nbsp;
-    <a href="https://www.rabbitmq.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.png" height="120">
-    </a>
-</p>
+<a href="https://www.docker.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120">
+</a>
+<a href="https://aws.amazon.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
+</a> &nbsp;&nbsp;
+<a href="https://www.rabbitmq.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.png" height="120">
+</a>
 
 ## 🌱 I’m currently learning:
 <a href="https://kubernetes.io/" target="_blank" >
@@ -101,12 +99,12 @@
 </a>
 
 ## 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
+<a href="https://www.linkedin.com/in/misra-aditya/" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/_linkedin.png" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/realadityamisra" target="_blank" >
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/realadityamisra" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/twitter.webp" height="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@aditya_misra5" target="_blank" >
     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/medium.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;

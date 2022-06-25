@@ -8,13 +8,6 @@
 
 🌱 I’m currently mastering micro-service based architecture & love to solve complex problems with simple solutions.
 
-<details>
-     <summary>📊 <b>Github Stats</b></summary>
-     <p> 
-          <img src="https://github-readme-stats.vercel.app/api?username=AdityaMisra&show_icons=true&theme=calm" alt="Aditya Misra | Stats" />
-    <p/>
-</details>
-
  ![Visitor Count](https://profile-counter.glitch.me/{AdityaMisra}/count.svg)
 
 ## 😄 Pronouns:
@@ -25,10 +18,10 @@
 ### Languages
 
 <p>
-   <a  target="_blank" href="https://www.python.org/" rel="nofollow">
+   <a  target="_blank" href="https://www.python.org/">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/python.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank" href="https://www.java.com/en/" rel="nofollow">
+   <a target="_blank" href="https://www.java.com/en/">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/java.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank" href="https://golang.org/" rel="nofollow">
@@ -38,8 +31,6 @@
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/js-javascript.gif" height="100">
    </a>
 </p>
-
-
 
 ### Frameworks & Libraries
 

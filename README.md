@@ -104,7 +104,7 @@
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/jenkins.gif" height="120">
     </a>
     <a href="https://www.vaultproject.io/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/hashicorp_vault.svg" height="120">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/hashicorp_vault.gif" height="120">
     </a>
 </p>
 

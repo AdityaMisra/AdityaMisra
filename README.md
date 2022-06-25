@@ -18,10 +18,10 @@
 ### Languages
 
 <p>
-   <a  target="_blank" href="https://www.python.org/">
+   <a target="_blank" href="https://www.python.org/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/python.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a target="_blank" href="https://www.java.com/en/">
+   <a target="_blank" href="https://www.java.com/en/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/java.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank" href="https://golang.org/" rel="nofollow">

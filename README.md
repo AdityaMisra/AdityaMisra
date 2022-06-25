@@ -79,6 +79,9 @@
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://memcached.org/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/memcached.gif" height="120">
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.snowflake.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/snowflake.gif" height="120">
     </a>
 </p>
 
@@ -91,8 +94,17 @@
     <a href="https://aws.amazon.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
     </a> &nbsp;&nbsp;
+    <a href="https://kafka.apache.org/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/kafka.gif" height="120">
+    </a> &nbsp;&nbsp;
     <a href="https://www.rabbitmq.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.gif" height="120">
+    </a>
+    <a href="https://www.jenkins.io/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/jenkins.gif" height="120">
+    </a>
+    <a href="https://www.vaultproject.io/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/hashicorp-vault.gif" height="120">
     </a>
 </p>
 

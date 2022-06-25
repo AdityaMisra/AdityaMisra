@@ -46,10 +46,10 @@
 <p>
     <a href="https://spring.io/projects/spring-boot" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.gif" height="120">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://reactjs.org/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/react_js.gif" height="120">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.djangoproject.com/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.gif" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
 <p>
     <a href="https://www.mysql.com/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/mysql.gif" height="120">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/postgresql.gif" height="120">
     </a>
@@ -90,19 +90,19 @@
 <p>
     <a href="https://www.docker.com/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/docker.gif" height="120">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://aws.amazon.com/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/aws.gif" height="120">
-    </a> &nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://kafka.apache.org/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/kafka.gif" height="120">
-    </a> &nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.rabbitmq.com/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.gif" height="120">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.jenkins.io/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/jenkins.gif" height="120">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.vaultproject.io/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/hashicorp_vault.gif" height="120">
     </a>

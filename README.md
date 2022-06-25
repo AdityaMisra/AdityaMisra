@@ -24,19 +24,19 @@
 ### Languages
 
 <p>
-   <a href="https://www.python.org/">
+   <a href="https://www.python.org/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/python.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.java.com/en/">
+   <a href="https://www.java.com/en/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/java.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://golang.org/">
+   <a href="https://golang.org/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/golang.gif" height="120">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript">
+   <a href="https://www.javascript.com/" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/js-javascript.gif" height="100">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.javascript.com/">
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" rel="nofollow">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.png" height="100">
    </a>
 </p>
@@ -46,13 +46,13 @@
 ### Frameworks
 
 <p>
-    <a href="https://www.djangoproject.com/">
+    <a href="https://www.djangoproject.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/django.png" height="120">
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://flask.palletsprojects.com/en/1.1.x/">
+    <a href="https://flask.palletsprojects.com/en/1.1.x/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/flask.png" height="120">
     </a>
-    <a href="https://spring.io/projects/spring-boot">
+    <a href="https://spring.io/projects/spring-boot" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/spring-boot.png" height="120">
     </a>
 </p>
@@ -60,10 +60,10 @@
 ### Storage
 
 <p>
-    <a href="https://www.mysql.com/">
+    <a href="https://www.mysql.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/mysql.gif" height="120">
     </a>
-    <a href="https://www.postgresql.org/">
+    <a href="https://www.postgresql.org/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/postgresql.gif" height="120">
     </a>
 </p>

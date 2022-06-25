@@ -34,9 +34,14 @@
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/golang.gif" height="120">
    </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript">
+     <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/js-javascript.gif" height="100">
+   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.javascript.com/">
      <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/html-css-js.png" height="100">
    </a>
 </p>
+
+
 
 ### Frameworks
 

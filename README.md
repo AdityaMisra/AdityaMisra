@@ -100,11 +100,11 @@
     <a href="https://www.rabbitmq.com/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/rabbitmq.gif" height="120">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jenkins.io/" rel="nofollow" target="_blank">
-        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/jenkins.gif" height="120">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.vaultproject.io/" rel="nofollow" target="_blank">
         <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/hashicorp_vault.gif" height="120">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.jenkins.io/" rel="nofollow" target="_blank">
+        <img src="https://raw.githubusercontent.com/AdityaMisra/AdityaMisra/master/assets/jenkins.gif" height="120">
     </a>
 </p>
 
